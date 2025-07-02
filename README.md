@@ -6,7 +6,7 @@ A server that allows you to sync files between Roblox Studio and your favorite I
 
 1. **Download and Install the Plugin**
 
-   * Go to: [https://create.roblox.com/store/asset/73391894238434/SyncYourIDE](https://create.roblox.com/store/asset/73391894238434/SyncYourIDE)
+   * Go to: [https://create.roblox.com/store/asset/137634224705881/ConnectYourIDE](https://create.roblox.com/store/asset/137634224705881/ConnectYourIDE)
 
    * Click on `Get Plugin`
 
